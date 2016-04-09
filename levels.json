@@ -2,6 +2,7 @@
     "levels":[
         {"name":"Level 01","path":"level_01.json"},
         {"name":"Level 02","path":"level_02.json"},
-        {"name":"Level 20","path":"level_20.json"}
+        {"name":"Level 03","path":"level_03.json"},
+        {"name":"Level 04","path":"level_04.json"}
     ]
 }
