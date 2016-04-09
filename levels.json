@@ -1,5 +1,5 @@
 {
     "levels":[
-        "level_01.json"
+        {"level":1,"path":"level1.json"}
     ]
 }
