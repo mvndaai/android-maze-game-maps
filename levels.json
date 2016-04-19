@@ -1,8 +1,8 @@
 {
     "levels":[
-        {"name":"Level 01","path":"level_01.json"},
-        {"name":"Level 02","path":"level_02.json"},
-        {"name":"Level 03","path":"level_03.json"},
-        {"name":"Level 04","path":"level_04.json"}
+        {"name":"Level 01","path":"level_01.json","version":1},
+        {"name":"Level 02","path":"level_02.json","version":1},
+        {"name":"Level 03","path":"level_03.json","version":1},
+        {"name":"Level 04","path":"level_04.json","version":1}
     ]
 }
